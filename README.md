@@ -7,7 +7,7 @@
 
 Програмування WEB-інтерфейсів:
 
-Лабораторна робота №1 - 
+Лабораторна робота №1 - https://docs.google.com/document/d/1EV6b1z-Bepbf3y2JGRCZBbH0Vk45id4FQUDLn6cE8IE/edit?usp=sharing
 
 Технологія розробки WEB-додатків:
 
