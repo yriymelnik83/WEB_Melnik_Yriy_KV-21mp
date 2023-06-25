@@ -1,0 +1,19 @@
+{% macro chat(userName) -%}
+<div class="container-fluid">
+    <div class="row">
+        <div class="ml-auto col-auto alert ">
+		<h1>Chat</h1>
+                <div class="form-group">
+                    <label for="conversation">Conversation:</label>
+                    <textarea id="chatArea" class="form-control" id="conversation" rows="5" readonly></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="message">message:</label>
+                    <input data-username = "{{userName}}" id = "messageText" type="text" class="form-control" id="message" placeholder="Enter message">
+                </div>
+                <button id="chatButton"  onclick="sendMessage()" class="btn btn-primary">Send</button>
+		</div>
+    </div>
+</div>
+<script src="{{ static("scripts/chat.js") }}"></script>
+{%- endmacro %}
