@@ -13,4 +13,4 @@
 
 Лабораторна робота №1 - https://docs.google.com/document/d/1z3FwO-Jvk3x6zzWxhGtAOELxqn2aP7-cLxq4kxRd8vk/edit?usp=sharing
 
-Лабораторна робота №2 - 
+Лабораторна робота №2 - https://docs.google.com/document/d/1xhFJlQMnWyPPPohu6AsCakqJYRVQoqFnvXYwVm8x0pA/edit?usp=sharing
